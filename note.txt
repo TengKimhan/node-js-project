@@ -1,0 +1,3 @@
+Project Smart brain api note
+
++ bcrypt-nodejs: use for store password
